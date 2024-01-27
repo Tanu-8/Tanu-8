@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hii there,I am Tanu Priya👋</h1><br>
 🔭 I’m currently <strong>pursuing BCA(Bachelor of Computer Applications) </strong><br>
 🌱 I’m currently learning <strong>Web Devlopment (HTML,CSS,JavaScript) </strong><br>
-📫 How to reach me: <a href="www.linkedin.com/in/tanu-priya-243606239" target="_blank">Tanu Priya</a>
+📫 How to reach me: <a href="https://www.linkedin.com/in/tanu-priya-243606239" target="_blank">Tanu Priya</a>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanu-priya-243606239" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
